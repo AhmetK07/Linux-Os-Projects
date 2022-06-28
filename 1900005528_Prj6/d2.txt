@@ -1,0 +1,16 @@
+/dev/sda1: UUID="6cb9e9f2-21fe-42bf-8f41-e6627d3911f7" BLOCK_SIZE="512" TYPE="xfs" PARTUUID="694ccddb-01"
+/dev/sda2: UUID="29785255-5afc-40a1-a764-1bfb7690160b" TYPE="swap" PARTUUID="694ccddb-02"
+/dev/sda3: UUID="1e7774a3-c71b-4cdc-843d-598fbde86545" BLOCK_SIZE="512" TYPE="xfs" PARTUUID="694ccddb-03"
+/dev/sdb1: LABEL="vsdb1" UUID="5e0b933a-9c57-4338-ba91-a0a5de56276a" BLOCK_SIZE="1024" TYPE="ext4" PARTUUID="07259a46-01"
+/dev/sdb2: LABEL="Remaining Space" UUID="2d39f48d-a677-407f-9399-5e5afc83856f" BLOCK_SIZE="1024" TYPE="ext4" PARTUUID="07259a46-02"
+/dev/sdc: LABEL="NewPartition" UUID="c899fd41-2697-4a22-9498-ac6ef9086566" BLOCK_SIZE="1024" TYPE="ext4"
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0    16G  0 disk 
+├─sda1   8:1    0     1G  0 part /boot
+├─sda2   8:2    0   1.6G  0 part [SWAP]
+└─sda3   8:3    0  13.4G  0 part /
+sdb      8:16   0   512M  0 disk 
+├─sdb1   8:17   0   245M  0 part /mnt/sdb1
+└─sdb2   8:18   0   266M  0 part /mnt/sdb2
+sdc      8:32   0 256.4M  0 disk /mnt/data
+sr0     11:0    1  1024M  0 rom  

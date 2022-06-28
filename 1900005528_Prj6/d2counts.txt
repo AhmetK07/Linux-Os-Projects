@@ -1,0 +1,4 @@
+Our “/mnt/data/d1 directory has 2 links because we have two actions that points to d1 folder.
+
+
+Our /mnt/data/d1/x.tx directory has 2 links too because linux by default gives 1 links and we are creating another link so our link count will be updated and be 2.

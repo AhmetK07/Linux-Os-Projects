@@ -1,0 +1,22 @@
+/mnt/data:
+total 21
+    2 drwx---rwx. 4 root  root   1024 Dec 23 19:16 .
+  151 drwxr-xr-x. 5 root  root     42 Dec 23 18:41 ..
+31873 drwxrwxr-x. 2 admin admin  1024 Dec 23 19:05 d1
+   14 -rw-rw-r--. 1 admin admin     0 Dec 23 19:16 d2mntdata.txt
+   13 -rw-rw-r--. 1 admin admin  1070 Dec 23 19:13 d2.txt
+   11 drwx---rwx. 2 root  root  12288 Dec 23 18:34 lost+found
+   12 lrwxrwxrwx. 1 admin admin     4 Dec 23 19:08 myd -> /mnt
+31875 -rw-rw-r--. 2 admin admin     0 Dec 23 19:05 myx
+
+/mnt/data/d1:
+total 5
+31873 drwxrwxr-x. 2 admin admin 1024 Dec 23 19:05 .
+    2 drwx---rwx. 4 root  root  1024 Dec 23 19:16 ..
+31874 lrwxrwxrwx. 1 admin admin   11 Dec 23 19:02 mypw -> /etc/passwd
+31875 -rw-rw-r--. 2 admin admin    0 Dec 23 19:05 x.txt
+
+/mnt/data/lost+found:
+total 13
+11 drwx---rwx. 2 root root 12288 Dec 23 18:34 .
+ 2 drwx---rwx. 4 root root  1024 Dec 23 19:16 ..

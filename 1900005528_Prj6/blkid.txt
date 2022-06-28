@@ -1,0 +1,7 @@
+device     fs_type label    mount point    UUID
+
+/dev/sdb1  ext4    vsdb1    /mnt/sdb1      5e0b933a-9c57-4338-ba91-a0a5de56276a
+/dev/sdb2  ext4    Remaining Space /mnt/sdb2 2d39f48d-a677-407f-9399-5e5afc83856f
+/dev/sda1  xfs              /boot          6cb9e9f2-21fe-42bf-8f41-e6627d3911f7
+/dev/sda2  swap             [SWAP]         29785255-5afc-40a1-a764-1bfb7690160b
+/dev/sda3  xfs              /              1e7774a3-c71b-4cdc-843d-598fbde86545

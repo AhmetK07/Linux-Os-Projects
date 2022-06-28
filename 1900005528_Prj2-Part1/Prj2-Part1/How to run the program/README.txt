@@ -1,0 +1,1 @@
+when trying to execute the c program we have to write the input of the user that we are trying to search for after writing the executable file as seen in the screenshot.

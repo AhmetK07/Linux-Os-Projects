@@ -1,0 +1,7 @@
+Your desired output: 
+1900005528
+
+Your desired output: 
+Ahmet Kaan Memioglu
+
+Your line count is: 2

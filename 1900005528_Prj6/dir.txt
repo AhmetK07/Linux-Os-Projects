@@ -1,0 +1,23 @@
+.:
+total 22
+    2 drwx---rwx. 4 root  root   1024 Dec 23 18:21 .
+  151 drwxr-xr-x. 4 root  root     30 Dec 23 17:10 ..
+   12 -rw-rw-r--. 1 admin admin   451 Dec 23 17:53 blkid.txt
+   15 -rw-rw-r--. 1 admin admin     0 Dec 23 18:24 dir.txt
+   11 drwxrwxrwx. 2 root  root  12288 Dec 23 16:47 lost+found
+   14 lrwxrwxrwx. 1 admin admin    18 Dec 23 18:20 pwdsl -> /mnt/sdb1/work/pwd
+   13 lrwxrwxrwx. 1 admin admin    14 Dec 23 18:16 wksl -> /mnt/sdb1/work
+32129 drwxrwxr-x. 2 admin admin  1024 Dec 23 18:14 work
+32130 -rw-rw-r--. 2 admin admin    64 Dec 23 18:14 xxhl
+
+./lost+found:
+total 13
+11 drwxrwxrwx. 2 root root 12288 Dec 23 16:47 .
+ 2 drwx---rwx. 4 root root  1024 Dec 23 18:21 ..
+
+./work:
+total 7
+32129 drwxrwxr-x. 2 admin admin 1024 Dec 23 18:14 .
+    2 drwx---rwx. 4 root  root  1024 Dec 23 18:21 ..
+32130 -rw-rw-r--. 2 admin admin   64 Dec 23 18:14 xx.txt
+32131 -rw-rw-r--. 1 admin admin   64 Dec 23 18:14 xx.txt~
